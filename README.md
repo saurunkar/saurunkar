@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sachin Urunkar 
 ### Senior AI Engineer | Generative AI & Agentic Systems Architect
 
-I am a passionate AI practitioner with over 6 years of experience transforming complex data into production-grade intelligent systems. My focus lies at the intersection of **Generative AI**, **Agentic workflows**, and **Scalable MLOps**.
+I am a AI practitioner with experience transforming complex data into production-grade intelligent systems. My focus lies at the intersection of **Generative AI**, **Agentic workflows**, and **Scalable MLOps**.
 
 ---
 
