@@ -5,7 +5,7 @@ I am a AI practitioner with experience transforming complex data into production
 
 ---
 
-## 🚀 What I Do
+## What I Do
 I specialize in building "thinking" machines. From orchestrating multi-agent systems to designing advanced RAG pipelines, I bridge the gap between cutting-edge LLM research and real-world business value.
 
 * **Agentic AI**: Crafting autonomous agents using LangGraph and LangChain to solve reasoning-heavy tasks.
@@ -15,7 +15,7 @@ I specialize in building "thinking" machines. From orchestrating multi-agent sys
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -27,7 +27,7 @@ I specialize in building "thinking" machines. From orchestrating multi-agent sys
 
 ---
 
-## 💡 Featured Projects
+## Featured Projects
 
 ### 🤖 Transaction Validity & Reconciliation
 An **Agent-based AI system** designed to detect anomalies and recommend corrective actions. It utilizes LangGraph's reasoning capabilities to handle complex financial logic.
