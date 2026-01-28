@@ -52,7 +52,7 @@ A classification model used to determine trip types and optimize vehicle perform
 
 ## 📫 Let's Connect!
 * **Location**: Pune, Maharashtra
-* **Profiles**: [LinkedIn](https://www.linkedin
+* **Profiles**: [LinkedIn](https://www.linkedin.com/in/saurunkar/)
 <!---
 saurunkar/saurunkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
