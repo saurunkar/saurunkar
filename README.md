@@ -29,11 +29,11 @@ I specialize in building "thinking" machines. From orchestrating multi-agent sys
 
 ## Featured Projects
 
-### 🤖 Transaction Validity & Reconciliation
-An **Agent-based AI system** designed to detect anomalies and recommend corrective actions. It utilizes LangGraph's reasoning capabilities to handle complex financial logic.
-
 ### 📄 Hiring.ai
 An end-to-end **LLM-powered agent platform**. It automates candidate screening and evaluation through advanced retrieval-based workflows.
+
+### 🤖 Transaction Validity & Reconciliation
+An **Agent-based AI system** designed to detect anomalies and recommend corrective actions. It utilizes LangGraph's reasoning capabilities to handle complex financial logic.
 
 ### ⚡ Ford Charge Intelligence
 An AI-driven **diagnostic system** that performs root cause analysis on multi-sensor data to accelerate issue resolution.
